@@ -1,2 +1,2 @@
-# apps_scrips
+# apps-scrips
 Google Apps Scripts
